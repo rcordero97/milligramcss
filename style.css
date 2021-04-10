@@ -1,0 +1,161 @@
+.logo {
+ text-align: left;
+ margin: 10px ;
+}
+.navigation{
+ background: #FFFFFF;
+ text-align: right;
+ padding: 10px 0;
+ font-weight: bold;
+}
+.navigation a{
+ color: #586268;
+ padding: 5px;
+}
+
+
+#textoION{
+    padding-left: 25px;
+    font-size: 20px;
+}
+
+#nav2{
+    padding-right: 30px;
+}
+
+.info{
+    margin-top: -30px;
+    padding: 25px 0px 25px ;
+    text-align: center;
+}
+
+.info2{
+    padding: 120px 0px 25px ;
+    text-align: center;
+}
+.info3{
+    padding: 120px 0px 25px ;
+    text-align: center;
+    background-color: #192024;
+}
+.info4{
+    padding: 120px 0px 60px ;
+    text-align: center;
+    background-color: #586268;
+    margin-bottom: 100px;
+}
+.info5{
+    padding: 120px 0px 60px ;
+    text-align: left;
+    padding-left:50px;
+    padding-right:50px;
+    background-color: #f8f8f8;
+}
+
+#info1{
+    background-image: url('images/banner.jpg');
+    padding-top: 130px;
+    padding-bottom: 130px;
+    color: #FFFFFF;
+}
+
+#button1  {
+    color: #FFFFFF;
+    background-color: #629dd1;
+    border-color: #629dd1;
+}
+#button2  {
+    background-color: #629dd1;
+    border-color: #629dd1;
+    color:#FFFFFF;
+    height: 4.5rem;
+    width: 300px;
+    font-size: 20px;
+
+}
+#button3  {
+    background-color: transparent;
+    border-color: white;
+    color:#FFFFFF;
+    height: 4.5rem;
+    width: 300px;
+    font-size: 20px;
+}
+.button.blanco-transparente {
+    background-color: transparent;
+    border-color: #c5c7c8;
+    color:#c5c7c8;
+    height: 4.5rem;
+    width: 300px;
+    font-size: 20px;
+}
+
+.textogris{
+    color:#c5c7c8;
+}
+
+.textoblancoespacio{
+    color:#ffffff;
+    letter-spacing: 5px;
+}
+
+#texto1{
+    font-size: 60px;
+}
+
+.titulo1{
+    letter-spacing: 5px;
+}
+
+
+.column.cuadrado{
+    border: 1px solid #586268;
+
+}
+
+.round-image{
+    border-radius: 2%;
+}
+
+.info4{
+    padding: 120px 50px 25px 50px ;
+
+    background-color:#FFFFFF;
+
+}
+
+
+.textgrisespaciado{
+    letter-spacing: 5px;
+}
+
+.referencia{
+    color:blue;
+    margin-bottom: -100px;
+    margin-top:-100px;
+}
+
+.column.column-50.lol{
+    padding-left: 100px;
+}
+
+.info5 .row .column hr{
+
+    border: 1px solid #cacccd;
+}
+.info5 .row .column a{
+
+    color: #586268;
+}
+#ref1{
+
+    color: #c5c7c8;
+}
+#ref2{
+
+    color: #c5c7c8;
+}
+
+#final{
+    color: #c5c7c8;
+}
